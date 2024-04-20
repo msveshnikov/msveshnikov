@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @msveshnikov
-- 👀 I’m interested in React.JS, data science
-- 🌱 I’m currently learning ChatGPT
+- 👀 I’m interested in React.JS and AI
 - 💞️ I’m looking for someone to collaborate on https://mangatv.shop
 
 
