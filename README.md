@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msveshnikov
 - 👀 I’m interested in React.JS and AI
-- 💞️ I’m looking for someone to collaborate on https://autoresearch.pro
+- 💞️ Check my other live projects here: https://mvpgen.com
 
 <!---
 msveshnikov/msveshnikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
